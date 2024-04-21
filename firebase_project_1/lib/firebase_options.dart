@@ -39,50 +39,5 @@ class DefaultFirebaseOptions {
         );
     }
   }
-
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAXevY5aCk0TA_RuzgG6RU95jfStSBk6Go',
-    appId: '1:390976943192:web:deeba78974d63fd409c62d',
-    messagingSenderId: '390976943192',
-    projectId: 'prjkt-73852',
-    authDomain: 'prjkt-73852.firebaseapp.com',
-    storageBucket: 'prjkt-73852.appspot.com',
-    measurementId: 'G-63555MEJ58',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA0ytqXurGIw8FW8HJdN04ON29fj-2i7i4',
-    appId: '1:390976943192:android:007f7bf3299a40c709c62d',
-    messagingSenderId: '390976943192',
-    projectId: 'prjkt-73852',
-    storageBucket: 'prjkt-73852.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBej3QizQT2olAo9pRVBd9WnQD6KarQo0U',
-    appId: '1:390976943192:ios:578c4879548106bb09c62d',
-    messagingSenderId: '390976943192',
-    projectId: 'prjkt-73852',
-    storageBucket: 'prjkt-73852.appspot.com',
-    iosBundleId: 'com.example.firebaseProject1',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBej3QizQT2olAo9pRVBd9WnQD6KarQo0U',
-    appId: '1:390976943192:ios:578c4879548106bb09c62d',
-    messagingSenderId: '390976943192',
-    projectId: 'prjkt-73852',
-    storageBucket: 'prjkt-73852.appspot.com',
-    iosBundleId: 'com.example.firebaseProject1',
-  );
-
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAXevY5aCk0TA_RuzgG6RU95jfStSBk6Go',
-    appId: '1:390976943192:web:9cf7a7bf7739879309c62d',
-    messagingSenderId: '390976943192',
-    projectId: 'prjkt-73852',
-    authDomain: 'prjkt-73852.firebaseapp.com',
-    storageBucket: 'prjkt-73852.appspot.com',
-    measurementId: 'G-63E8SDM336',
-  );
+    
 }

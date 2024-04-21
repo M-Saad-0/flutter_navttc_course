@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872247734923",
+    "project_id": "navtcc-project",
+    "storage_bucket": "navtcc-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872247734923:android:d10b00b035882505015a8e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZOz-FC70p7suRe42UOu-721JG0f45I-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
